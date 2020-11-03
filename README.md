@@ -9,7 +9,7 @@ Some examples of how to use sockets in a (hopefully) simple and well documented 
 > R Delaney, Simple Sockets Example, (2020), GitHub repository, https://github.com/Vitineth/simple-sockets-example/
 
 ```bibtex
-@misc{Charles2013,
+@misc{Delaney2020,
   author = {Delaney, Ryan},
   title = {Simple Sockets Example},
   year = {2020},
